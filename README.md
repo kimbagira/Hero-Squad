@@ -18,4 +18,7 @@ behaviour
 you should go to the application and enter what is required
 
 input
+
 enter the name,age,power,weakness.
+
+output
