@@ -30,3 +30,5 @@ the entered data will be posted
 https://github.com/kimbagira/Hero-Squad
 
 ## BUGS
+
+no bugs
