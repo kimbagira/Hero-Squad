@@ -22,3 +22,5 @@ input
 enter the name,age,power,weakness.
 
 output
+
+the entered data will be posted
