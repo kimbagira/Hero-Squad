@@ -32,3 +32,7 @@ https://github.com/kimbagira/Hero-Squad
 ## BUGS
 
 no bugs
+
+## TECHNOLOGIES USED
+
+JAVA
