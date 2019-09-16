@@ -42,11 +42,24 @@ public class Hero{
         return Weakness;
     }
 
+    public static ArrayList<Hero>getAll() {
+        return enter;
+    }
+
     public int getId(){
         return Id;
     }
 
     public static Hero search(int id){
         return enter.get(id-1);
+    }
+
+    public void update(String name, String age, String power, String weakness) {
+        Name = name;
+        Age = age;
+        Power = power;
+        Weakness = weakness;
+        Id = enter.size();
+        enter.add(this);
     }
 }
