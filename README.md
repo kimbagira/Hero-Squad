@@ -15,6 +15,7 @@ you should clone to get my code
 
 behaviour
 
-you should enter the name,age,power,weakness.
+you should go to the application and enter what is required
 
 input
+enter the name,age,power,weakness.
