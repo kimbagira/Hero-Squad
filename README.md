@@ -14,3 +14,5 @@ you should clone to get my code
 ## BDD
 
 behaviour
+
+you should enter the name,age,power,weakness.
