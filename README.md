@@ -10,3 +10,5 @@ you have to enter what you are required to enter and the thos inputed data will 
 ## SETUP/REQUIREMENTS
 
 you should clone to get my code
+
+## BDD
