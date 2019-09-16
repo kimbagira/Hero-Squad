@@ -16,3 +16,5 @@ you should clone to get my code
 behaviour
 
 you should enter the name,age,power,weakness.
+
+input
