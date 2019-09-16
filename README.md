@@ -36,3 +36,7 @@ no bugs
 ## TECHNOLOGIES USED
 
 JAVA
+
+## LICENSE
+
+copyright(c)2019kimbagira sylvie
